@@ -1,0 +1,6 @@
+*.crx
+.idea/
+ 
+
+node_modules/
+releases/
